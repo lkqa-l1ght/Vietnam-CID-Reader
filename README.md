@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 CCCD Chip Reader (C#)
 
 A C# application for reading data from **Vietnamese chip-based Citizen ID cards (CCCD)** via NFC, using **BAC (ICAO 9303)** security.
@@ -128,3 +129,6 @@ public (byte[] KSenc, byte[] KSmac, byte[] SSC) Run()
 - Citizen information  
 - Base64 image file  
 - Files saved to Desktop  
+=======
+# Vietnam-CID-Reader
+>>>>>>> 7d36ad279c9934dded08fed0faa8e363d095c929
