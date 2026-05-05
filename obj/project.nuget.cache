@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyUDXT53eF8=",
+  "success": true,
+  "projectFilePath": "D:\\winvis\\VietnamCIDReader\\VietnamCIDReader\\VietnamCIDReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\pcsc\\7.0.1\\pcsc.7.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\pcsc.iso7816\\7.0.1\\pcsc.iso7816.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

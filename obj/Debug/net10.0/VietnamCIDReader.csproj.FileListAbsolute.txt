@@ -1,0 +1,38 @@
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.AssemblyInfoInputs.cache
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.AssemblyInfo.cs
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.csproj.CoreCompileInputs.cache
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.sourcelink.json
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.csproj.AssemblyReference.cache
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.exe
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.deps.json
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.runtimeconfig.json
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.dll
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.pdb
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\PCSC.dll
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\PCSC.Iso7816.dll
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamC.925B3F10.Up2Date
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.dll
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\refint\VietnamCIDReader.dll
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.pdb
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.genruntimeconfig.cache
+D:\Vietnam CID Reader\winvis\VietnamCIDReader\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\ref\VietnamCIDReader.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.exe
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.deps.json
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.runtimeconfig.json
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\VietnamCIDReader.pdb
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\PCSC.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\bin\Debug\net10.0\PCSC.Iso7816.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.csproj.AssemblyReference.cache
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.AssemblyInfoInputs.cache
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.AssemblyInfo.cs
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.csproj.CoreCompileInputs.cache
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.sourcelink.json
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamC.925B3F10.Up2Date
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\refint\VietnamCIDReader.dll
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.pdb
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\VietnamCIDReader.genruntimeconfig.cache
+D:\winvis\VietnamCIDReader\VietnamCIDReader\obj\Debug\net10.0\ref\VietnamCIDReader.dll
